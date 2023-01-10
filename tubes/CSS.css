@@ -1,0 +1,180 @@
+*{
+	margin:  0;
+	padding: 0;
+	box-sizing: border-box;
+	text-decoration: none;
+
+}
+
+body{
+	background-image: url('https://gdurl.com/W_4p');
+	background-size: cover;
+	background-attachment:fixed;
+ background-repeat: no-repeat;
+ 
+}
+
+
+div.header{
+	width: 100%;
+	padding: 20px 0px;
+	position: fixed;
+	background-color:rgba(154, 116, 20, 3);
+	text-decoration: none;
+
+}
+
+div.header-part{
+	width: 1200px;
+	margin: auto;
+	font-family: 'Poppins', sans-serif;
+	color: #ffff;
+	text-decoration: none;
+
+
+}
+
+div.logo{
+	display: inline-block;
+	font-size: 21px;
+	margin-right: 355px;
+
+	
+}
+div.navbar{
+	float: right;
+	display: block;
+
+	
+	
+}
+
+.menu {
+	display: flex;
+
+
+
+}
+
+.menu li{
+	list-style-type: none;
+	padding: 5px 40px;
+	font-size: 16px;
+	font-family: 'Poppins', sans-serif;
+	margin-right: 11px;
+	
+	
+}
+
+div.navbar a{
+	display: block;
+	padding: 15px;
+	color: white;
+	text-decoration: none;
+}
+
+div.navbar ul{
+	text-decoration: none;
+}
+
+
+div.navbar a:hover{
+	background-color:rgb(255, 255, 255);
+	color: black;
+	
+}
+
+div.banner h2{
+	padding-top: 18%;
+	font-size: 70px;
+	font-family: 'Poppins', sans-serif;
+	text-transform: uppercase;
+	color:#3700ff;
+text-align: center;
+
+}
+
+div.banner{
+width: 100%;
+height: 650px;
+position: block;
+}
+
+
+div.content{
+	width: 100%;
+
+	top: 650px;
+	background: white;
+	height: 1200px;
+	font-family: 'Poppins', sans-serif;
+
+}
+
+
+
+div.wrapper{
+	width: 1170px;
+	margin: auto;
+
+}
+
+
+.beans{
+	text-align: center;
+	font-family: 'Poppins', sans-serif;
+}
+
+.cart{
+	font-family: 'Poppins', sans-serif;
+}
+
+
+.box{
+	border: 1px solid;
+}
+
+
+.box .kolom-list{
+	width:  25%;
+	padding: 20px;
+	box-sizing: border-box;
+	border:  1px solid;
+	float: left;
+}
+
+.box2{
+	
+}
+
+
+.box2 .kolom-list2{
+	width:  25%;
+
+	
+	box-sizing: border-box;
+	
+	float: left;
+}
+
+
+
+.about{
+	font-size: 16px;
+	text-align: center;
+	padding-top: 563px;
+
+}
+
+.footer{
+  background-color:rgb(20, 187, 209);
+   position: relative;
+   margin-top: -2px;
+   padding: 20px;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   color: white;
+   text-align: center;
+}
+
